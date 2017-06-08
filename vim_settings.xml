@@ -1,0 +1,50 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/CLionProjects/bde/groups/bal/balb/balb_controlmanager.h" timestamp="1496890689652">
+        <mark key="'" line="355" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="355" column="0" filename="$USER_HOME$/CLionProjects/bde/groups/bal/balb/balb_controlmanager.h" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3lvZ2VzaGFyb3JhL0NTQzU0MEJ1ZmZlck1nci5naXQK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3lvZ2VzaGFyb3JhL0NTQzU0MEJ1ZmZlck1nci5naXQK</text>
+      </register>
+      <register name=":" type="4">
+        <text>/S</text>
+      </register>
+      <register name="/" type="4">
+        <text>ControlManager</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ControlManager</last-search>
+      <last-offset />
+      <last-pattern>ControlManager</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>S</entry>
+        <entry>ControlManager</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/S</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

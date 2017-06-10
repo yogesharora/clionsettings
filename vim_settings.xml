@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/CMake/src/main.cpp" timestamp="1497060598950">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/bde/groups/bal/balb/balb_controlmanager.h" timestamp="1496890689652">
         <mark key="'" line="355" column="0" />
       </file>
@@ -12,9 +17,12 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3lvZ2VzaGFyb3JhL0NTQzU0MEJ1ZmZlck1nci5naXQK</text>
+        <text encoding="base64">ICAgIGludCBjb3VudGVyOwo=</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludCBjb3VudGVyOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3lvZ2VzaGFyb3JhL0NTQzU0MEJ1ZmZlck1nci5naXQK</text>
       </register>
       <register name=":" type="4">

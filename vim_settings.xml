@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/CMake/src/main.cpp" timestamp="1497134279368">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/CLionProjects/CMake/src/main.cpp" timestamp="1497401296565">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/CLionProjects/bde/groups/bal/balb/balb_controlmanager.h" timestamp="1496890689652">
         <mark key="'" line="355" column="0" />
@@ -19,14 +20,20 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGludCBjb3VudGVyOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudGVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3lvZ2VzaGFyb3JhL0NTQzU0MEJ1ZmZlck1nci5naXQK</text>
       </register>
+      <register name="w" type="4">
+        <text>e</text>
+      </register>
       <register name=":" type="4">
         <text>/S</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>ControlManager</text>

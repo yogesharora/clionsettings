@@ -707,6 +707,13 @@
         <option name="ERROR_STRIPE_COLOR" value="7e8181" />
       </value>
     </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="d6d6d6" />
+        <option name="BACKGROUND" value="2e2e2e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff3333" />

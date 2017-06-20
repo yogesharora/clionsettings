@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="ctrl alt home" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
+</keymap>
